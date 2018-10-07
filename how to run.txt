@@ -1,0 +1,10 @@
+how to run 
+---------------------------------
+sudo service postgresql start // postgresql-db
+sudo service odoo-server1 start // Odoo10.0
+sudo service odoo-server2 start // Odoo11.0
+---------------------------------
+start webapplication 
+
+Odoo10.0 //ip-address:8068
+Odoo11.0 //ip-address:8069
